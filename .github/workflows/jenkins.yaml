@@ -14,4 +14,4 @@ jobs:
         curl -X POST \
           "https://cg-stg-jenkins-su.glb.samsung-gamelauncher.com/job/deploy-nginx-to-gke-cluster/buildWithParameters" \
           --user "ducgiang-ng:1195aa226849b0bee760aeb4bf4a80d2b3" \
-          --data IMAGE_TAG=5f6893e8a4aa0ceb8a094a0d8675e681fe8cad14
+          --data IMAGE_TAG=5f6893e8a4aa0ceb8a094a0d8675e681fe8cad1
